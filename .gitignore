@@ -1,0 +1,14 @@
+
+*.dat
+*.bmp
+*.rar
+*.exe
+*.mat
+*.h5
+*.jpg
+*.png
+*.pgm
+*.avi
+*.mexw32
+*.mexw64
+
